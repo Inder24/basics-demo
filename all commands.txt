@@ -1,0 +1,9 @@
+cd basics
+
+git init
+
+git status
+
+git add .
+
+git commit -m "my first commit"
