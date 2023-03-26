@@ -9,3 +9,7 @@ git add .
 git commit -m "my first commit"
 
 add all the other fiiles using CLI or github desktop
+
+git branch -> to showcase the current branch
+
+git merge <branch_name> -> to be run on master branch. It is to merge with other branches.
