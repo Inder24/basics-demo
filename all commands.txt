@@ -7,3 +7,5 @@ git status
 git add .
 
 git commit -m "my first commit"
+
+add all the other fiiles using CLI or github desktop
